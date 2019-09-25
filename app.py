@@ -8,8 +8,8 @@ from dash.dependencies import Input, Output, State
 
 myheading1='winter golf equipment'
 tabtitle = 'golf Equipment!'
-list_of_colors=['red', 'green', 'blue']
-list_of_numbers=['one', 'two', 'three']
+list_of_colors=['beanig', 'galvin', 'jacket']
+list_of_numbers=['towel', 'frozen', 'glove']
 sourceurl = 'https://dash.plot.ly/getting-started-part-2'
 githublink = 'https://github.com/gportes24/dash-call-multi-input'
 
