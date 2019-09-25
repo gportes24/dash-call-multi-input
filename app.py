@@ -6,12 +6,12 @@ from dash.dependencies import Input, Output, State
 
 ########### Define your variables ######
 
-myheading1='How to use callbacks with multiple inputs'
-tabtitle = 'lightsabers!'
+myheading1='winter golf equipment'
+tabtitle = 'golf Equipment!'
 list_of_colors=['red', 'green', 'blue']
 list_of_numbers=['one', 'two', 'three']
 sourceurl = 'https://dash.plot.ly/getting-started-part-2'
-githublink = 'https://github.com/austinlasseter/dash-callbacks-multi-input'
+githublink = 'https://github.com/gportes24/dash-call-multi-input'
 
 
 ########## Set up the chart
